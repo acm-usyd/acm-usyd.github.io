@@ -1,1 +1,1 @@
-# Homepage of USYD's ACM/ICPC teams
+# Homepage of USYD's ACM programming teams
